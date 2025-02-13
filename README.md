@@ -1,5 +1,4 @@
 # Weather Information Script
-
 This script fetches real-time weather data for a specified city using the OpenWeatherMap API.
 
 ## Features
